@@ -23,7 +23,7 @@ announcements.
 Alternatively, [find me on telegram](https://t.me/afxsu)! (Keep all support questions in the support chat, where more people can help you.)
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jithumon/tgbot)<br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sdfghkj/tgbot)<br>
 There is also a [tutorial ](https://instagram.com/af_x_su?igshid=YmMyMTA2M2Y=) if you want any help on creating heroku clone.
 [![telegram badge](https://img.shields.io/badge/Support-Group-30302f?style=flat&logo=telegram)](https://t.me/at3botsupport)
 [![telegram badge](https://img.shields.io/badge/Update-Channel-30302f?style=flat&logo=telegram)](https://t.me/at3_movies)
